@@ -35,7 +35,7 @@ Traditional pattern-matching engines can suffer from high computational overhead
 
 ## 🛠️ Tech Stack
 
-- **Language:** Python / C++ / Java *(Adjust as per your implementation)*
+- **Language:** C*
 - **Core Concepts:** Deterministic Finite Automata (DFA), Non-Deterministic Finite Automata (NFA), Regular Languages, State Transition Graphs.
 
 ---
@@ -43,7 +43,7 @@ Traditional pattern-matching engines can suffer from high computational overhead
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Compiler / Runtime environment for your language (e.g., Python 3.x or GCC/G++).
+- Compiler / Runtime environment (C).
 
 ### Installation & Execution
 1. Clone the repository:
